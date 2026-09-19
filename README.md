@@ -1,9 +1,9 @@
 # Student Management System (Laravel 11 API + React)
 ## Application Screenshots
 
-![Student List View](./screenshots/student-list.png)
-![Register Student](./screenshots/register.png)
-![Edit Student](./screenshots/edit.png)
+![Student List View](./list.png)
+![Register Student](./register.png)
+![Edit Student](./edit.png)
 
 ## Setup & Installation
 Make sure you have the following installed on your machine:
